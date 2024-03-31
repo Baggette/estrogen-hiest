@@ -38,13 +38,15 @@ img{
 }
 .container{
     overflow: hidden;
+    width: auto;
+    height: auto;
 }
 .iframe{
     width: 35vh;
     height: 30vh;
     float: left;
     background-color: #f1f1f1;
-    margin-left: 35vh;
+    margin-left: 30vh;
 }
 .insta_widget
 {
@@ -52,7 +54,7 @@ img{
     height: 30vh;
     background-color:brown;
     float: right;
-    margin-right: 35vh;
+    margin-right: 30vh;
 }
 div.visitors{
     background-color: gray;

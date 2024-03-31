@@ -40,19 +40,19 @@ img{
     overflow: hidden;
 }
 .iframe{
-    width: 30%;
-    height: 40%;
+    width: 45vh;
+    height: 40vh;
     float: left;
     background-color: #f1f1f1;
-    margin-left: 40vh;
+    margin-left: 45vh;
 }
 .insta_widget
 {
-    width: 30%;
-    height: 40%;
+    width: 45vh;
+    height: 40vh;
     background-color:brown;
     float: right;
-    margin-right: 40vh;
+    margin-right: 45vh;
 }
 div.visitors{
     background-color: gray;

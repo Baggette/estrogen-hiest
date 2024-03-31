@@ -48,15 +48,15 @@ img{
     font-size: 15px;
 }
 .iframe{
-    width: 30vh;
-    height: 25vh;
+    width: 40vh;
+    height: 35vh;
     float: left;
     background-color: #f1f1f1;
 }
 .insta_widget
 {
-    width: 30vh;
-    height: 25vh;
+    width: 40vh;
+    height: 35vh;
     background-color:brown;
     float: right;
 }

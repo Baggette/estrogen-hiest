@@ -44,7 +44,7 @@ img{
     height: 30vh;
     float: left;
     background-color: #f1f1f1;
-    margin-left: 66vh;
+    margin-left: 50vh;
 }
 .insta_widget
 {
@@ -52,7 +52,7 @@ img{
     height: 30vh;
     background-color:brown;
     float: right;
-    margin-right: 66vh;
+    margin-right: 50vh;
 }
 div.visitors{
     background-color: gray;

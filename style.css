@@ -44,6 +44,7 @@ img{
     flex-wrap: nowrap;
     justify-content: center;
     gap: 15vh;
+    font-size: 15px;
 }
 .iframe{
     width: 35vh;

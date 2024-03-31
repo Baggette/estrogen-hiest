@@ -59,6 +59,11 @@ img{
     background-color:brown;
     float: right;
 }
+@media (max-width: 800px) {
+    .container {
+      flex-direction: column;
+    }
+  }
 div.visitors{
     background-color: gray;
     width: 20vh;

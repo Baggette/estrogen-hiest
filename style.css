@@ -43,7 +43,7 @@ img{
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: center;
-    gap: 15vh;
+    gap: 10vh;
     font-size: 15px;
 }
 .iframe{
@@ -51,7 +51,6 @@ img{
     height: 30vh;
     float: left;
     background-color: #f1f1f1;
-    padding-right: 2vh;
 }
 .insta_widget
 {
@@ -65,4 +64,22 @@ div.visitors{
     width: 20vh;
     margin: auto;
     border-radius: 5px;
+    background-image: linear-gradient(
+  320deg,
+  hsl(340deg 93% 83%) 0%,
+  hsl(333deg 100% 81%) 16%,
+  hsl(325deg 100% 78%) 24%,
+  hsl(318deg 100% 76%) 30%,
+  hsl(311deg 99% 73%) 35%,
+  hsl(302deg 86% 69%) 40%,
+  hsl(295deg 82% 64%) 45%,
+  hsl(289deg 83% 60%) 50%,
+  hsl(283deg 85% 56%) 55%,
+  hsl(277deg 87% 52%) 60%,
+  hsl(273deg 90% 50%) 65%,
+  hsl(268deg 93% 50%) 70%,
+  hsl(263deg 95% 50%) 76%,
+  hsl(255deg 97% 51%) 84%,
+  hsl(237deg 100% 50%) 100%
+);
   }

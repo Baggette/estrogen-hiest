@@ -43,19 +43,20 @@ img{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     gap: 10vh;
     font-size: 15px;
 }
 .iframe{
-    width: 35vh;
-    height: 30vh;
+    width: 30vh;
+    height: 25vh;
     float: left;
     background-color: #f1f1f1;
 }
 .insta_widget
 {
-    width: 35vh;
-    height: 30vh;
+    width: 30vh;
+    height: 25vh;
     background-color:brown;
     float: right;
 }

@@ -41,7 +41,7 @@ img{
     width: auto;
     height: auto;
     flex-direction: row;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 10vh;
     font-size: 15px;

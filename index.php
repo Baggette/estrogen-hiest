@@ -35,6 +35,7 @@ if(strpos(file_get_contents('../evisitors.txt'), $text) !== false) {
   <meta name="og:description" content="ESTROGEN HIEST">
   <link rel="stylesheet" href="style.css">
   <script type="text/javascript" src="./js/script.js"></script>
+  <script type="text/javascript" src="./js/counter.js"></script>
 </head>
 <body>
   <h1>ESTROGEN HIEST</h1>
@@ -45,6 +46,7 @@ if(strpos(file_get_contents('../evisitors.txt'), $text) !== false) {
 <div class="insta_widget">
     <p>this will be insta widget</p>
 </div>
-<div class="counter">
-    <p>you are visitor number: <?php echo file_get_contents("counter.txt"); ?></p>
-</div>
+<div class="visitors">
+      <p id="visitors"></p>
+    </div>
+</body>

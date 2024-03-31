@@ -37,16 +37,20 @@ img{
     border-radius: 5px;
 }
 .container{
-    overflow: hidden;
+    display: flex;
     width: auto;
     height: auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    gap: 15vh;
 }
 .iframe{
     width: 35vh;
     height: 30vh;
     float: left;
     background-color: #f1f1f1;
-    margin-left: 30vh;
+    padding-right: 2vh;
 }
 .insta_widget
 {
@@ -54,7 +58,6 @@ img{
     height: 30vh;
     background-color:brown;
     float: right;
-    margin-right: 30vh;
 }
 div.visitors{
     background-color: gray;

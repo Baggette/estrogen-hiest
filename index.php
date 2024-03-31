@@ -35,18 +35,21 @@ if(strpos(file_get_contents('../evisitors.txt'), $text) !== false) {
   <meta name="og:description" content="ESTROGEN HIEST">
   <link rel="stylesheet" href="style.css">
   <script type="text/javascript" src="./js/script.js"></script>
-  <script type="text/javascript" src="./js/counter.js"></script>
 </head>
 <body>
   <h1>ESTROGEN HIEST</h1>
   <img src="./assets/estrogen_hiest.png" alt="estrogen_hiest">
-  <div class="iframe">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5n2BT6qtJoparlqZtjcmO0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <h2>Releases April 69th 2024</h2>
+<div class="container">
+<div class="iframe">
+  <!--<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5n2BT6qtJoparlqZtjcmO0?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>-->
+  <p>presave album thingy will be here <br> and maybe other links to other platforms</p>
 </div>
 <div class="insta_widget">
-    <p>this will be insta widget</p>
+  <p>this will be insta widget</p>
+</div>
 </div>
 <div class="visitors">
-      <p id="visitors"></p>
-    </div>
+    <p id="visitors"></p>
+  </div>
 </body>

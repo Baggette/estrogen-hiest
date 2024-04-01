@@ -39,7 +39,7 @@ if(strpos(file_get_contents('../evisitors.txt'), $text) !== false) {
 <body>
   <h1>ESTROGEN HIEST</h1>
   <img src="./assets/estrogen_hiest.png" alt="estrogen_hiest">
-  <h2>Releases April 69th 2024</h2>
+  <h2>Releases April 5th 2024</h2>
 <div class="container">
 <div class="iframe">
   <!--<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5n2BT6qtJoparlqZtjcmO0?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>-->

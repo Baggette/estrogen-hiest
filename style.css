@@ -44,7 +44,7 @@ img{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 5vh;
+    gap: 4vh;
     font-size: 15px;
 }
 .title{
@@ -67,8 +67,11 @@ ul#socials{
   list-style-type: none;
 }
 @media (max-width: 800px) {
-    .container {
+    .header {
       flex-direction: column;
+    }
+    #socials{
+      font-size: 0.25em;
     }
   }
 div.visitors{

@@ -56,7 +56,7 @@ if(strpos(file_get_contents('../../evisitors.txt'), $text) !== false) {
 </div>
   <img src="./assets/estrogen_hiest.png" alt="estrogen_hiest">
   <h2 id="release"></h2>
-  <p>In the meantime go follow the band on their numerous socials</p>
+  <p>In the meantime go follow Spectrums. on their numerous socials</p>
 <div class="visitors">
     <p id="visitors"></p>
   </div>

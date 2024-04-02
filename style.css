@@ -36,7 +36,7 @@ img{
     justify-content: center;
     border-radius: 5px;
 }
-.container{
+.header{
     display: flex;
     width: auto;
     height: auto;
@@ -44,21 +44,27 @@ img{
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    gap: 10vh;
+    gap: 5vh;
     font-size: 15px;
 }
-.iframe{
-    width: 40vh;
-    height: 35vh;
-    float: left;
-    background-color: #f1f1f1;
+.title{
+    text-align: center;
 }
-.insta_widget
-{
+.socials{
     width: 40vh;
+    height: 9vh;
+    float: left;
+    border-radius: 5px;
+    text-align: left;
+}
+.spotify
+{
+    width: 50vh;
     height: 35vh;
-    background-color:brown;
     float: right;
+}
+ul#socials{
+  list-style-type: none;
 }
 @media (max-width: 800px) {
     .container {
